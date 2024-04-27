@@ -1,8 +1,7 @@
 # item_modifier-set_item
 item_modifierの1項目であるset_item_sampleのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_itemでアイテムをすり替える【item_modifier】](https://natsumake.com/item_modifier-set_item/)』を参考にしてください。
 
 <h3>概要</h3>
 対称としたアイテムのコンポーネントと個数を変更せずに、指示したアイテムへと変更します。
